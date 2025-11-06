@@ -1,0 +1,5 @@
+{
+  "name": "AI Career Assistant",
+  "description": "An application to help job seekers generate generic and custom resumes, and get job title recommendations based on their professional background using AI.",
+  "requestFramePermissions": []
+}
